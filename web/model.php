@@ -29,9 +29,9 @@
         <img alt="rabbit" src="../img/logo.jpg" style="float: left" title="logo" width="200px">
         <ul style="float: left;list-style: none">
             <li style="float: left; margin-right: 30px;">關於我們</li>
-            <li style="float: left; margin-right: 30px;">Minecraft</li>
+            <li style="float: left; margin-right: 30px;"><a href="minecraft_log.php">Minecraft</a></li>
             <li style="float: left; margin-right: 30px;">Linux架設</li>
-            <li style="float: left; margin-right: 30px;">LAMP架設</li>
+            <li style="float: left; margin-right: 30px;"><a href="LAMP.php">LAMP架設</a></li>
             <li style="float: left; margin-right: 30px;">暫無</li>
             <li style="float: left; margin-right: 30px;">暫無</li>
             <li style="float: left; ">暫無</li>
