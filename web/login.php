@@ -12,6 +12,10 @@ $result = $database_connect_status->query($sql);
 $row = mysqli_num_rows($result);
 if ($row) {
     echo "登入成功";
+    header("Refresh:3;url=http://120.110.112.126/~terry/website_project/");
+    exit;
 } else {
     echo "登入失敗";
+
+
 }

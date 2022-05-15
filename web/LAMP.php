@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>LAMP架設</title>
 </head>
 <body>
 <strong style="position: fixed;top: 200px;font-size: 20px;">

@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 
-    <title>圖書館</title></head>
+    <title>圖書館-管理</title></head>
 <body>
 <?php include("model.php") ?>
 <div style="margin-top: 50px; margin-left: 400px">
