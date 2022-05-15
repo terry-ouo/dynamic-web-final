@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["submit"])) {
         $password = $_POST["password"];
         $mail = $_POST["mail"];
 
-        $sql ="INSERT INTO `account`(`name`, `account`, `password`, `mail`) VALUES ('$name','$account','$password','$mail')";
+        $sql ="INSERT INTO `users`(`name`, `account`, `password`, `mail`) VALUES ('$name','$account','$password','$mail')";
         $query = mysqli_query($db_link,$sql);
         if ($query)
         {
