@@ -39,10 +39,17 @@
     </div>
     <div id="toolbar_right">
         <ul style="float: right;list-style: none;">
-            <li style="float: right; margin-left: 30px; margin-right: 30px;"><a href="user_login.php">&#128273;登入</a></li>
+            <li style="float: right; margin-left: 30px; margin-right: 30px;"><a href="user_login.php">&#128273;
+                    <?php
+                    $user = "登入";
+                    $user = glob($user);
+                    echo $user;
+                    ?>
+                </a></li>
             <li style="float: right;">&#128214;資料</li>
         </ul>
     </div>
+
 </div>
 
 

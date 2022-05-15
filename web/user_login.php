@@ -7,7 +7,7 @@
 <body>
 <?php include("model.php") ?>
 <div style="margin-top: 100px; margin-left: 40%">
-    <form action="connect_mysql.php" method="post">
+    <form action="login.php" method="post">
         <label>
             帳號 :
             <input type="text" name="account">
