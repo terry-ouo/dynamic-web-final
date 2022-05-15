@@ -32,7 +32,7 @@
             <li style="float: left; margin-right: 30px;"><a href="minecraft_log.php">&#127795;Minecraft</a></li>
             <li style="float: left; margin-right: 30px;">&#127972;Linux架設</li>
             <li style="float: left; margin-right: 30px;">&#127972;<a href="LAMP.php">LAMP架設</a></li>
-            <li style="float: left; margin-right: 30px;">暫無</li>
+            <li style="float: left; margin-right: 30px;"><a href="library.php">圖書館</a></li>
             <li style="float: left; margin-right: 30px;">暫無</li>
             <li style="float: left; ">暫無</li>
         </ul>
