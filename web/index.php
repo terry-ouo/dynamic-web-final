@@ -15,7 +15,7 @@
         echo "<p ><b style=\"font-size: 20px; color: rgb($color1,$color2,$color3)\">----規 劃 出 的 架 構 圖 ----</b></p>"
         ?>
     </div>
-    <div style="position: relative;float: right; margin-right: 200px">
+    <div style="position: relative;float: right; margin-right: 200px; font-size: larger">
         當前時間為 : <?php echo  date("h:i:sa"); ?>
     </div>
 </div>
