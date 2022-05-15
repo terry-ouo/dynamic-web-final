@@ -55,7 +55,7 @@
         ?>
     </div></a>
     <div style="position: relative;float: right; margin-right: 200px; font-size: 40px; font-family: 'Comic Sans MS',serif">
-        <b>當前時間為 : <?php echo  date("h:i:sa"); ?></b>
+        <b>當前時間為 : <?php echo  date("h:i"); ?></b>
     </div>
 </div>
 
