@@ -26,7 +26,7 @@
 <div id="toolbox" style=" min-height: 48px; background-color: antiquewhite;">
     <div id="toolbar_left">
         <!--suppress CheckImageSize -->
-        <img alt="rabbit" src="../img/logo.jpg" style="float: left" title="logo" width="200px">
+        <a href="index.php"><img alt="rabbit" src="../img/logo.jpg" style="float: left" title="logo" width="200px"></a>
         <ul style="float: left;list-style: none">
             <li style="float: left; margin-right: 30px;">關於我們</li>
             <li style="float: left; margin-right: 30px;"><a href="minecraft_log.php">Minecraft</a></li>
